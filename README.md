@@ -2,12 +2,6 @@
 
 Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lima, Perú 🇵🇪. Me encanta poner en práctica lo que aprendo al trabajar en proyectos personales, la mayoría de los cuales comparto en mi GitHub 🚀. En este momento, tengo conocimientos sólidos en tecnologías como TypeScript, Node.js, ReactJS, MySQL, MongoDB y Google Cloud ☁️. Además, soy el fundador de [CVMATCHER](https://cvmatcher.app/), una startup dedicada a mejorar la eficiencia en la busqueda laboral a través de la inteligencia artificial y tecnologías innovadoras. 🚀✨
 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephSB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephSB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <p align="left">Lenguajes de programación</p>
@@ -112,11 +106,19 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.josephsb.me/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/joseph-silva-bendezu/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/josep.silvab/)
+</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosephSB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephSB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
