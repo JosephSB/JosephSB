@@ -1,3 +1,4 @@
+![Joseph Web Preview](https://dlqtlyyjlhuqbdkjhcft.supabase.co/storage/v1/object/public/images/web-preview.png)
 ## Hi there, I'm [Joseph Silva B](https://www.josephsb.me/) 👋
 
 Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lima, Perú 🇵🇪. Soy un apasionado de la tecnología y la informática 💻, por eso estoy estudiando Ingeniería de Software 🎓. A principios de 2020, comencé mi carrera en Ingeniería de Software y decidí especializarme en Desarrollo Web 🌐. Empecé mi viaje de aprendizaje viendo videos en YouTube 📺 y luego amplié mis conocimientos a través de Udemy, la documentación oficial y otras plataformas educativas.
