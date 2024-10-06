@@ -111,7 +111,7 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
 
 ###
 
-<img src="https://raw.githubusercontent.com/JosephSB/JosephSB/output/snake.svg" alt="Snake animation" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u48puuogb6o50papg1q9dwfzq)
 
 ###
 
@@ -120,12 +120,6 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
-###
-
-<div align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u48puuogb6o50papg1q9dwfzq)
 </div>
 
 ###
