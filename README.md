@@ -111,7 +111,7 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u48puuogb6o50papg1q9dwfzq)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u48puuogb6o50papg1q9dwfzq&width={width})
 
 ###
 
