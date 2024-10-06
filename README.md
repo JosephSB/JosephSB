@@ -2,16 +2,18 @@
 
 Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lima, Perú 🇵🇪. Me encanta poner en práctica lo que aprendo al trabajar en proyectos personales, la mayoría de los cuales comparto en mi GitHub 🚀. En este momento, tengo conocimientos sólidos en tecnologías como TypeScript, Node.js, ReactJS, MySQL, MongoDB y Google Cloud ☁️. Además, soy el fundador de [CVMATCHER](https://cvmatcher.app/), una startup dedicada a mejorar la eficiencia en la busqueda laboral a través de la inteligencia artificial y tecnologías innovadoras. 🚀✨
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JosephSB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephSB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="left" style="margin-left: 20px;">
 
 <p align="left">Lenguajes de programación</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -21,11 +23,11 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
+
 
 <p align="left">Frontend Development</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -45,11 +47,11 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 
-###
+
 
 <p align="left">Backend Development</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -65,11 +67,11 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
 </div>
 
-###
+
 
 <p align="left">Database</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -81,11 +83,11 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
-###
+
 
 <p align="left">Devops</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -99,17 +101,18 @@ Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+
 
 <p align="left">Testing</p>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-###
+  </div>
+</div>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=u48puuogb6o50papg1q9dwfzq&width=1000)
 
