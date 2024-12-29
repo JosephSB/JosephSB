@@ -1,4 +1,4 @@
-![Joseph Web Preview](https://dlqtlyyjlhuqbdkjhcft.supabase.co/storage/v1/object/public/images/web-preview-short.svg)
+![Joseph Web Preview](https://swqzxcbdblvywhxxthkc.supabase.co/storage/v1/object/public/images/web-preview-short.svg)
 
 Hola! 😃 Mi nombre es Joseph Nahun Silva Bendezu, tengo 21 años y vivo en Lima, Perú 🇵🇪. Me encanta poner en práctica lo que aprendo al trabajar en proyectos personales, la mayoría de los cuales comparto en mi GitHub 🚀. En este momento, tengo conocimientos sólidos en tecnologías como TypeScript, Node.js, ReactJS, MySQL, MongoDB y Google Cloud ☁️. Además, soy el fundador de [CVMATCHER](https://cvmatcher.app/), una startup dedicada a mejorar la eficiencia en la busqueda laboral a través de la inteligencia artificial y tecnologías innovadoras. 🚀✨
 
